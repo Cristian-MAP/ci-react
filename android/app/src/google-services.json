@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "522009643316",
+    "project_id": "cyclistsapp-5262d",
+    "storage_bucket": "cyclistsapp-5262d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522009643316:android:39fee47be136e245b63d61",
+        "android_client_info": {
+          "package_name": "com.cyclistsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522009643316-21dolqelkrsh9ogn9goki2o17niffeto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cyclistsapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "522009643316-lbgk7m95a5fgu2b6s3qq8pm4q6nsshup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAew-VfjVC6CURy3QQDdPapKLecbqi2ZEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522009643316-lbgk7m95a5fgu2b6s3qq8pm4q6nsshup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
